@@ -1,8 +1,20 @@
-# lucy-simulator-nostalgic
-The Console app version of Lucy Simulator by Prodski.
+# LUCY SIMULATOR NOSTALGIC
+Original by Prodski, this one made by Threesodas.
+Built in C#!
 
-## Find the original game here...
+# Changelog
 
-To access Lucy Simulator (the original), [install Nova Storefront](https://get-nova.glitch.me) by Prodski.
+## v1.0.0
+Version released
+**Platforms:** Windows
 
-# This game is in constant development (almost). The full version is not set to release for a while.
+- Game complete, with final objective.
+
+## v1.1.0
+Version unreleased, TBA
+**Platforms:** TBA
+
+- 4 extra endings
+- Items in shop
+- Polishedness
+- Storyline??!?!?!?!?
