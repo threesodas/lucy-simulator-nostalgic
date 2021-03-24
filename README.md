@@ -1,6 +1,11 @@
 # LUCY SIMULATOR NOSTALGIC
 Original by Prodski, this one made by Threesodas.
 Built in C#!
+<br />
+
+You are tasked with taking care of Lucy.
+<br />
+To be known as the best pet owner ever, you need to have a good reputation with Lucy. Can you manage?
 
 # Changelog
 
