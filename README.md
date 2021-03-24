@@ -6,12 +6,14 @@ Built in C#!
 
 ## v1.0.0
 Version released
+<br />
 **Platforms:** Windows
 
 - Game complete, with final objective.
 
 ## v1.1.0
 Version unreleased, TBA
+<br />
 **Platforms:** TBA
 
 - 4 extra endings
