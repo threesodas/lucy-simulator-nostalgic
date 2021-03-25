@@ -1,6 +1,16 @@
 # Lucy Simulator Nostalgic
 Play the original game on [Nova Storefront](https://get-nova.glitch.me)
 
+# 1.2.0 released! So, what's new?
+## Fixed bugs
+- None
+## Additions
+- Added 2nd ending
+- Endings now show up on homescreen
+## Removals
+- None
+<br />
+
 # What's new in 1.1.0
 
 ## Fixed bugs
@@ -18,16 +28,6 @@ Play the original game on [Nova Storefront](https://get-nova.glitch.me)
 - none here
 
 ### File size: 0.01MB
-<br />
-<br />
-# 1.2.0 released! So, what's new?
-## Fixed bugs
-- None
-## Additions
-- Added 2nd ending
-- Endings now show up on homescreen
-## Removals
-- None
 <br />
 
 # Lucy Simulator isn't working/save data won't work!
