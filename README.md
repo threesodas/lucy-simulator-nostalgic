@@ -46,8 +46,3 @@ Play the original game on [Nova Storefront](https://get-nova.glitch.me)
 
 ### File size: 0.01MB
 <br />
-
-# Lucy Simulator isn't working/save data won't work!
-EZ, just uninstall your old version before installing this one.
-<br />
-Because LSN uses **recursion** (calling the app within itself) if the app detects that there are two files named "Lucy Simulator Nostalgic.exe" it will freak out. I'll fix this bug in the near future.
