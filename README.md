@@ -1,23 +1,20 @@
 # Lucy Simulator Nostalgic
 Play the original game on [Nova Storefront](https://get-nova.glitch.me)
 
-# News about 1.4.0
+# Why is there no 1.4 yet?
+I mean... come on! You released all the previous updates in less than a week! <br />
+Well... a few reasons.
+- I'm busy working on other projects.
+- I have to keep up with school, especially since I only have 2 months left.
+- I haven't thought about what I want to actually add.
+- I have ADD, so it kinda just dances out of my head, then I stop working.
+- Mod support is supposed to actually work, but I screwed that idea up.
 
-### [Prodski](https://github.com/shakenbeet/), the original creator of Lucy Simulator, is working with me to bring you mod support for Lucy Simulator.
-I have decided that 1.4.0 will be the final update of LSN. It will include mod support, so you never have to recreate the application.
-<br />
-Instructions to set up a mod will be included with the tools that you need.
-
-## Update plans
-
-- ADD a casino, allowing you to gamble to get more or less money. Could replace bank
-- ADD Lucy types, with benefits.
-- ADD 2 more endings
-- ADD a surprise ;)
-- ADD mod support: Mod menu for external mods created by other people.
-- FIX code. I *may*, not guaranteed, rewrite the code for future mod development, as well as add comments to make mods easier.
-
-These are only plans, some may not happen.
+I know there's probably only one person who sees this (shout out to you LG) but I still wanna post about this anyway.
+### A Unity port might happen some day.
+Who knows? I mean, [Prodski](https://github.com/shakenbeet) is working on an Unreal port.
+<br /><br />
+## **TLDR; time.**
 
 # So 1.3.0's out, what's the news?
 
