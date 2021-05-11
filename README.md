@@ -5,7 +5,7 @@ Play the original game on [Nova Storefront](https://get-nova.glitch.me)
 I mean... come on! You released all the previous updates in less than a week! <br />
 Well... a few reasons.
 - I'm busy working on other projects.
-- I have to keep up with school, especially since I only have 2 months left.
+- I have to keep up with school, especially since I only have 1 week left.
 - I haven't thought about what I want to actually add.
 - I have ADD, so it kinda just dances out of my head, then I stop working.
 - Mod support is supposed to actually work, but I screwed that idea up.
